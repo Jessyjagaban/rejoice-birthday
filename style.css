@@ -26,3 +26,8 @@ p {
     grid-column: 2 /4;
     font-size: 20px;
 }
+
+img {
+    grid-column: 2 /4;
+    border-radius: 20px;
+}
