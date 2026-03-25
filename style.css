@@ -31,3 +31,11 @@ img {
     grid-column: 2 /4;
     border-radius: 20px;
 }
+
+a {
+   background-color: black;
+   padding: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+   color: white;
+}
